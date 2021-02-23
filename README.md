@@ -1,1 +1,3 @@
-# Breakout-Game
+# Breakout Game
+----------------------
+Small easy 2D game made in javascript,html and css...
